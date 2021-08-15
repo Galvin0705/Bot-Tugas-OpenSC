@@ -4,6 +4,7 @@ from PIL import ImageFont
 from art import *
 import time
 
+tprint("Bot-Tugas", font='bulbhead')
 logo = """[+]======================[+]\nCode ini di open oleh iFanpS\nPada tanggal 15 agustus/2021\n[+]======================[+]\n"""
 print(logo)
 print("1 . bahan_1.jpg berjumlah : 25 baris\n2 . bahan_2.jpg berjumlah : 25 baris\n")
